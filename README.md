@@ -14,6 +14,22 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
   <tbody>
     <tr>
       <td>
+        <a target="_blank" href="https://www.myntist.com/">
+          <img alt="My Ntist" src="./img/projects/myntist.png" />
+        </a>
+      </td>
+      <td>
+        <a target="_blank" href="https://step.app/">
+          <img alt="Step App" src="./img/projects/step.png" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>My Ntist</td>
+      <td>Step App</td>
+    </tr>
+    <tr>
+      <td>
         <a target="_blank" href="https://www.bti.live/trading/">
           <img alt="Trading website" src="./img/projects/trading.png" />
         </a>
@@ -59,22 +75,6 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
     <tr>
       <td>BNB Staking DApp</td>
       <td>NFT Buy Kitchen Game</td>
-    </tr>
-    <tr>
-      <td>
-        <a target="_blank" href="https://www.myntist.com/">
-          <img alt="My Ntist" src="./img/projects/myntist.png" />
-        </a>
-      </td>
-      <td>
-        <a target="_blank" href="https://step.app/">
-          <img alt="Step App" src="./img/projects/step.png" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>My Ntist</td>
-      <td>Step App</td>
     </tr>
   </tbody>
 </table>
