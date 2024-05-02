@@ -14,6 +14,22 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
   <tbody>
     <tr>
       <td>
+        <a target="_blank" href="https://github.com/sj19940817/market-volume-sol-bot">
+          <img alt="Market Volume Bot" src="./img/projects/market-volume.png" />
+        </a>
+      </td>
+      <td>
+        <a target="_blank" href="https://github.com/sj19940817/tg-pnl-bot">
+          <img alt="PnL Bot" src="./img/projects/pnl.png" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Market Volume Bot</td>
+      <td>PnL Bot</td>
+    </tr>
+    <tr>
+      <td>
         <a target="_blank" href="https://www.myntist.com/">
           <img alt="My Ntist" src="./img/projects/myntist.png" />
         </a>
